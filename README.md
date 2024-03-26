@@ -2,7 +2,9 @@
 
 Read the Word of God from your terminal
 
-This is identical to [https:github.com/bontibon/kjv.git](https:github.com/bontibon/kjv.git), but with an NET.tsv file instead.
+This is identical to [https:github.com/bontibon/kjv.git](https:github.com/bontibon/kjv.git), but with the net translation instead.
+
+NOTE: the verses will include subsection titles...These are a part of the tsv data and it would take a while to remove all of it.
 
 ## Usage
 
